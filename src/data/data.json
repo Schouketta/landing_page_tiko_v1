@@ -1,0 +1,67 @@
+{
+    "Header": {
+
+        "title": "Tiko",
+        "paragraph": "L'application qui reconnait toutes les espèces aquatiques et qui améliore l'expérience visiteur dans les aquariums !"
+
+    },
+    "About": {
+        "paragraph": "Notre souhait est d'améliorer l'expérience des visiteurs d'aquariums et les sensibiliser à la protection des océans. La solution que nous proposons est une application mobile de reconnaissance d'espèces marines en temps réel, gamifiée pour captiver les visiteurs, et en profiter pour leur insuffler l'importance de la protection des océans. 🐟",
+        "Why": [
+            "Innovant",
+            "Ludique",
+            "Interactif",
+            "Sensibilisation aux océans"
+        ],
+        "Why2": [
+            "Reconnaissance en temps réel",
+            "Réalité augmentée",
+            "Gamification",
+            "Equipe motivée"
+        ]
+    },
+    
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Sarah",
+            "job": "CEO, Co-founder"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Axel",
+            "job": "COO, Co-founder"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Antoine",
+            "job": "CTO, Co-founder"
+        }
+    ],
+    "Contact": {
+        "address": "10 rue Sextius Michel, Paris 75015",
+        "phone": "06 79 30 24 97",
+        "email": "aquadex.contact@gmail.com",
+        "linkedin": "https://www.linkedin.com/company/tiko-projet/",
+        "instagram": "https://www.instagram.com/schouketta/"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Reconnaissance",
+            "text": "L'application Tiko permet de reconnaitre n'importe quelle espèce aquatique en mouvement !"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Ludique",
+            "text": "Une expérience de visite innovante et interactive avec un pokedex ou plutot Aquadex à compléter et des quêtes à accomplir tout au long de la visite"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Fiches espèces",
+            "text": "Un accès à des fiches espèces informatives pour mieux comprendre la vie marine"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Sensibilisation",
+            "text": "De la sensibilisation aux océans en réalitée augmentée car nous pensons que nous devons protéger les océans et donner des idées à ceux qui, demain, se passionneront pour les océans. "
+        }
+    ]
+}
