@@ -15,7 +15,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/01-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -36,7 +36,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/02-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -57,7 +57,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/03-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -78,7 +78,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/04-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -99,7 +99,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/05-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -120,7 +120,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/06-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -141,7 +141,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/07-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -162,7 +162,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/08-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
@@ -183,7 +183,7 @@ export const Gallery = (props) => {
                 <div className='hover-bg'>
                   {' '}
                   <a
-                    href='img/portfolio/09-large.jpg'
+                    href='img/portfolio/photo_devant_Jelly.jpg'
                     title='Project Title'
                     data-lightbox-gallery='gallery1'
                   >
